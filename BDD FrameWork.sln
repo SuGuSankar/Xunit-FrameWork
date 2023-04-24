@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDD FrameWork", "BDD FrameWork\BDD FrameWork.csproj", "{EB6C3D71-7D93-4B49-96FC-ECB7ADFBB030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6C3D71-7D93-4B49-96FC-ECB7ADFBB030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6C3D71-7D93-4B49-96FC-ECB7ADFBB030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6C3D71-7D93-4B49-96FC-ECB7ADFBB030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6C3D71-7D93-4B49-96FC-ECB7ADFBB030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E9B801-7876-43E4-A543-D1876A34A609}
+	EndGlobalSection
+EndGlobal
